@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/01-spring-core-ioc-di" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02-springboot-fundamentals" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03-annotations-deep-dive" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04-rest-api-development" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05-spring-data-jpa" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/06-transactional-deep-dive" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07-spring-aop" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08-spring-security" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/09-actuator-and-observability" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10-scheduling-and-async" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11-caching" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/12-testing" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13-microservices-patterns" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14-springboot-interview-questions" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
