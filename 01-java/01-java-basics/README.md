@@ -10,6 +10,7 @@ Think of the **JDK as a full kitchen** (tools to cook = compile & run), the **JR
 - **JRE**: JVM + core libraries. Enough to *run* Java.
 - **JDK**: JRE + compiler (`javac`), tools (`jar`, `javadoc`, `jconsole`). Needed to *develop*.
 
+
 ### Compilation flow
 `.java` → `javac` → `.class` (bytecode) → ClassLoader → Bytecode Verifier → JIT/Interpreter → machine code.
 
@@ -35,6 +36,7 @@ Think of the **JDK as a full kitchen** (tools to cook = compile & run), the **JR
 - `final` (variable = constant, method = no override, class = no inheritance), `static` (class-level, loaded once), `this`/`super`.
 - Pass-by-value ONLY: Java always copies the value — for objects, the *reference* is copied. You can mutate the object, but reassigning the parameter doesn't affect the caller.
 - `main` is `public static void` so JVM can call it without creating an instance.
+
 
 ## Top interview questions
 1. **Why is Java platform-independent but JVM platform-dependent?** Bytecode is standard; each OS has its own JVM implementation.
