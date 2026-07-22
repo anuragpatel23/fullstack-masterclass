@@ -3,6 +3,8 @@
 ## Real-life analogy
 Joins are **matching two guest lists at a wedding**: the bride's list (table A) and groom's list (table B). **INNER JOIN** = guests on *both* lists. **LEFT JOIN** = everyone from the bride's list, with groom-side details filled in *if they exist, blanks (NULLs) otherwise*. **FULL OUTER** = everyone from either list. **CROSS JOIN** = every bride-guest paired with every groom-guest (a dance-pairing chart — m×n). **SELF JOIN** = matching the employee list *against itself* to find each person's mentor, who is also on the same list.
 
+
+
 ## The join types ⭐⭐
 | Join | Returns |
 |---|---|
