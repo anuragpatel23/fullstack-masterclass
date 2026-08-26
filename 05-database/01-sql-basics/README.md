@@ -3,6 +3,8 @@
 ## Real-life analogy
 A database table is a **school register**: columns are the fixed headings (name, roll no, class), each row is one student. SQL is the **question language you use with the clerk**: "give me all students of class 10 (WHERE), only their names (SELECT list), sorted by marks (ORDER BY), top 5 only (FETCH FIRST)." **NULL is a blank cell** — not zero, not empty string: *unknown*. You can't ask "is blank equal to blank?" (`NULL = NULL` is not true) — you can only ask "is this cell blank?" (`IS NULL`).
 
+
+
 ## Command categories ⭐ (asked as "what's the difference")
 | Category | Commands | Notes |
 |---|---|---|
