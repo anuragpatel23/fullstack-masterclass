@@ -1,5 +1,7 @@
 # 05 — Window Functions 🔴⭐⭐ (the modern SQL interview centerpiece)
 
+
+
 ## Real-life analogy
 GROUP BY **melts each pile of exam papers into a single summary card** — individual papers are gone. A window function is a teacher who **walks along the line of students** and, *standing next to each one*, announces something about that student's surroundings — "you're ranked 2nd in your section", "the student before you scored 85" — **every student (row) keeps standing; each just gains extra context**. The `PARTITION BY` is deciding which section the teacher compares you within; `ORDER BY` is the direction she walks.
 
