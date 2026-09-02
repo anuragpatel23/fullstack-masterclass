@@ -11,6 +11,7 @@
 2. In each topic: read the README, run/trace the code file, then answer the interview questions from memory.
 3. Revisit the ⭐ topics 48 hours before any interview — they cover ~80% of what's actually asked.
 
+
 **Legend:** 🟢 Beginner 🟡 Intermediate 🔴 Advanced ⭐ Interview hot-spot
 
 ---
@@ -53,7 +54,9 @@
 | 13 | `13-microservices-patterns` | 🔴⭐ | Service discovery, config server, API gateway, circuit breaker (Resilience4j), Feign/RestClient, saga, idempotency, event-driven with Kafka |
 | 14 | `14-springboot-interview-questions` | ⭐ | Rapid-fire Q&A: bean lifecycle, proxy pitfalls, startup flow, filter vs interceptor, `@Component` vs `@Bean`, etc. |
 
+
 ## 3️⃣ `03-javascript/` — JavaScript & ES6+
+
 
 | # | Topic folder | Level | Covers |
 |---|---|---|---|
