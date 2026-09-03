@@ -2,20 +2,16 @@
 
 > **The one-stop-shop roadmap to crack product-company full-stack interviews.**
 > Every topic folder contains: `README.md` (theory + **one real-life analogy** + interview Q&A) and a **code file** with runnable illustrations.
-
 ---
-
 ## How to use this repo
 
 1. Follow domains in order: **Java → Spring Boot → JavaScript → React → Database**.
 2. In each topic: read the README, run/trace the code file, then answer the interview questions from memory.
 3. Revisit the ⭐ topics 48 hours before any interview — they cover ~80% of what's actually asked.
 
-
 **Legend:** 🟢 Beginner 🟡 Intermediate 🔴 Advanced ⭐ Interview hot-spot
 
 ---
-
 ## 1️⃣ `01-java/` — Core & Advanced Java
 
 | # | Topic folder | Level | Covers |
